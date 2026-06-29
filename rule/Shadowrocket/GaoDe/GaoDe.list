@@ -6,7 +6,7 @@
 # TOTAL: 9
 #做一个👇
 #👉 “中信银行 + 支付宝 + 微信 + 国内App 全直连规则包（Shadowrocket专用）”
-
+RULE-SET,local-direct,DIRECT
 # 微信 / 支付宝 / QQ / 抖音 / 国内App
 DOMAIN-KEYWORD,wechat,DIRECT
 DOMAIN-KEYWORD,wx,DIRECT
