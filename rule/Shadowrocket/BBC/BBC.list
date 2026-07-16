@@ -36,3 +36,22 @@ DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 USER-AGENT,BBCiPlayer*
+#Bybit in down
+# --- Bybit 官方主域名与 API 域名 ---
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybitdev.com
+DOMAIN-SUFFIX,bybit-exchange.com
+DOMAIN-SUFFIX,bybitaffiliates.com
+
+# --- Bybit 辅助服务与图片/CDN 资源 ---
+DOMAIN-SUFFIX,bybit-static.com
+DOMAIN-SUFFIX,bybit-html.com
+DOMAIN-SUFFIX,bycsapi.com
+DOMAIN-SUFFIX,bybitsvc.com
+DOMAIN-SUFFIX,biw-api.com
+
+# --- 关键词匹配（拦截未知镜像） ---
+DOMAIN-KEYWORD,bybit
+
+
